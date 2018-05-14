@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual Tour VR", "Virtual Tour VR.csproj", "{7D5C0C70-2CBB-8551-A15F-1BAF5948F165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual Tour VR.Plugins", "Virtual Tour VR.Plugins.csproj", "{69893519-4777-5132-17AC-06708DF84AD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual Tour VR.Editor.Plugins", "Virtual Tour VR.Editor.Plugins.csproj", "{5DF87658-C145-4E0D-C1FE-E0D2D005F71D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual Tour VR.Editor", "Virtual Tour VR.Editor.csproj", "{8BB10E79-21E7-7630-7D4C-BEB7A6B4EE2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D5C0C70-2CBB-8551-A15F-1BAF5948F165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D5C0C70-2CBB-8551-A15F-1BAF5948F165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D5C0C70-2CBB-8551-A15F-1BAF5948F165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D5C0C70-2CBB-8551-A15F-1BAF5948F165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69893519-4777-5132-17AC-06708DF84AD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69893519-4777-5132-17AC-06708DF84AD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69893519-4777-5132-17AC-06708DF84AD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69893519-4777-5132-17AC-06708DF84AD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF87658-C145-4E0D-C1FE-E0D2D005F71D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF87658-C145-4E0D-C1FE-E0D2D005F71D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF87658-C145-4E0D-C1FE-E0D2D005F71D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF87658-C145-4E0D-C1FE-E0D2D005F71D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB10E79-21E7-7630-7D4C-BEB7A6B4EE2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB10E79-21E7-7630-7D4C-BEB7A6B4EE2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB10E79-21E7-7630-7D4C-BEB7A6B4EE2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB10E79-21E7-7630-7D4C-BEB7A6B4EE2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
